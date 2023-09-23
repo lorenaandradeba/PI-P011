@@ -38,15 +38,15 @@ Exercício 8: **contaPrimos.cpp** - *Faz uma função chamada conta_primos que r
 
 Exercício 9: **calcSerie.cpp** - *Faz uma função para calcular o valor de S*
 
-Exercício 10: [] **** - *Escreve uma função que recebe uma string de caracteres e uma letra e devolve um
+Exercício 10: [ ] **** - *Escreve uma função que recebe uma string de caracteres e uma letra e devolve um
                       vetor de inteiros contendo as posições (índices no vetor da string) onde a letra foi
                       encontrada) e um inteiro contendo o tamanho do vetor criado (total de letras iguais
                       encontradas). Utilize o retorno de um vetor para retornar os índices e um ponteiro para guardar o tamanho do vetor*
                     
 
-Exercício 11: [] **** - "Escreva uma função que codifica uma string em um código secreto. 
+Exercício 11: [ ] **** - "Escreva uma função que codifica uma string em um código secreto. 
                       Utiliza a regra: substituir cada letra pela letra seguinte."
 
-Exercício 12: []**** - *Escreve uma função que recebe duas strings A e B por parâmetro e retorne uma
+Exercício 12: [ ]**** - *Escreve uma função que recebe duas strings A e B por parâmetro e retorne uma
                       terceira string C com os caracteres que aparecem tanto em A quanto em B. 
                       O tamanho das string A e B pode ser diferente.*
