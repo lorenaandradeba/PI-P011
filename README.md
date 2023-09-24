@@ -44,7 +44,7 @@ Exercício 10: **letraEmString.cpp** - *Escreve uma função que recebe uma stri
                                       Retorna de um vetor com os índices e o tamanho do vetor*
                     
 
-Exercício 11: [ ] **** - "Escreva uma função que codifica uma string em um código secreto. 
+Exercício 11: **codifica.cpp** - "Escreva uma função que codifica uma string em um código secreto. 
                       Utiliza a regra: substituir cada letra pela letra seguinte."
 
 Exercício 12: [ ]**** - *Escreve uma função que recebe duas strings A e B por parâmetro e retorne uma
