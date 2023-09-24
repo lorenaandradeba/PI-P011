@@ -47,6 +47,6 @@ Exercício 10: **letraEmString.cpp** - *Escreve uma função que recebe uma stri
 Exercício 11: **codifica.cpp** - "Escreva uma função que codifica uma string em um código secreto. 
                       Utiliza a regra: substituir cada letra pela letra seguinte."
 
-Exercício 12: [ ]**** - *Escreve uma função que recebe duas strings A e B por parâmetro e retorne uma
-                      terceira string C com os caracteres que aparecem tanto em A quanto em B. 
-                      O tamanho das string A e B pode ser diferente.*
+Exercício 12: **caracteresComuns.cpp** - *Escreve uma função que recebe duas strings A e B por parâmetro e retorne uma
+                                          terceira string C com os caracteres que aparecem tanto em A quanto em B. 
+                                          O tamanho das string A e B pode ser diferente.*
